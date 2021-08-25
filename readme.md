@@ -1,7 +1,7 @@
 
-##VWAP Aplication
+## VWAP Aplication
 
-###Created using Java 18 with Swing
+### Created using Java 18 with Swing
 
 The purpose of this application is to display a list of trades within a GUI and calculate the 
 Volume Weighted Average Price of a stock, based on a csv file containing market trades(*src/main/resources/market_trades.csv*). 
